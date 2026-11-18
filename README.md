@@ -1,6 +1,6 @@
 # SegSense
 
-[![tests](https://github.com/Blop77/SegSense/actions/workflows/tests.yml/badge.svg)](https://github.com/Blop77/SegSense/actions/workflows/tests.yml)
+[![tests](https://github.com/faazkhn/segsense/actions/workflows/tests.yml/badge.svg)](https://github.com/faazkhn/segsense/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **▶ Live demo: [segsense.onrender.com](https://segsense.onrender.com)** · **🎬 Demo video: [youtu.be/NkiM_M_79AE](https://www.youtube.com/watch?v=NkiM_M_79AE)**
@@ -243,7 +243,7 @@ Requirements: Python 3.10+, and gcc or clang with the sanitizer runtime (`libasa
 macOS. SegSense has no Python dependencies.
 
 ```bash
-git clone https://github.com/Blop77/SegSense.git
+git clone https://github.com/faazkhn/segsense.git
 cd SegSense
 pip install -e .
 export NEBIUS_API_KEY=...
@@ -293,7 +293,7 @@ Choose an example or paste your own C code, then press **Debug it**. The agent l
 
 ### Deploy
 
-**One click:** [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Blop77/SegSense)
+**One click:** [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/faazkhn/segsense)
 
 Render builds the `Dockerfile`, asks for your `NEBIUS_API_KEY`, and serves the demo with
 `SEGSENSE_EXAMPLES_ONLY=1` (see `render.yaml`). Free instances sleep when idle, so the first visit

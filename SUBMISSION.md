@@ -176,7 +176,7 @@ Each hackathon rule, and where SegSense meets it.
 | Project description: what, why, how | ✅ | *What we built*, *Why we built it* and *How it works* above |
 | Working demo URL | ✅ | https://segsense.onrender.com (Render, from `render.yaml`) |
 | Demo video, public YouTube, ≤ 3 min | ✅ | https://www.youtube.com/watch?v=NkiM_M_79AE (2:35) |
-| Public repository | ✅ | github.com/Blop77/SegSense is public |
+| Public repository | ✅ | github.com/faazkhn/segsense is public |
 | Open source license shown at the top of the repo | ✅ | MIT, which GitHub detects |
 | README with setup and run instructions | ✅ | README: *Setup*, *Usage*, *Web demo*, *Deploy* |
 | README highlights NVIDIA model usage | ✅ | README: *NVIDIA and Nebius usage* |
